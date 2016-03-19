@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.0%Foundation-1.0"/>
+	<classpathentry kind="lib" path="F:/Hadoop/tools/hadoop-1.1.2/hadoop-ant-1.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Hadoop/tools/hadoop-1.1.2/hadoop-client-1.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Hadoop/tools/hadoop-1.1.2/hadoop-core-1.1.2.jar" sourcepath="F:/Hadoop/tools/hadoop-1.1.2/src"/>
+	<classpathentry kind="lib" path="F:/Hadoop/tools/hadoop-1.1.2/hadoop-examples-1.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Hadoop/tools/hadoop-1.1.2/hadoop-minicluster-1.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Hadoop/tools/hadoop-1.1.2/hadoop-test-1.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Hadoop/tools/hadoop-1.1.2/hadoop-tools-1.1.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Hadoop_src"/>
+	<classpathentry kind="lib" path="F:/Hadoop/tools/hadoop-1.1.2/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Hadoop/tools/hadoop-1.1.2/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Hadoop/tools/hadoop-1.1.2/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
